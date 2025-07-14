@@ -117,7 +117,15 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>Crypto.com Support is here to assist with all your questions and issues related to our platform.
+
+The Crypto.com Support Team is responsible for:
+ 1. Answering questions about Crypto.com services and features.
+ 2. Resolving issues with accounts, transactions, deposits, and withdrawals.
+ 3. Assisting with technical problems, including login, verification, and connectivity issues.
+ 4. Providing guidance on security, compliance, and using the app or exchange features properly.
+
+You can typically contact Crypto.com Support directly through this Help Center.</p>
           </div>
         `
         break
